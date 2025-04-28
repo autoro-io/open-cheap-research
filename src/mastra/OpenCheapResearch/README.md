@@ -20,7 +20,7 @@ Mastra で作った、ディープリサーチのチープ版です。
   2. 内省エージェントは、執筆の結果を見て完成であれば終了し、改善可能であれば加筆すべき内容と追加的な調査の方針を作る
 
 
-<div style="text-align: center">図1: Deep Research V2 のワークフロー</div>
+<div style="text-align: center">図1:Cheap Research のワークフロー</div>
 
 ```mermaid
 graph TD;
